@@ -5,7 +5,7 @@
 ![image](./logo.jpg)
 
 Репозиторий
-В данном репозитории находится Frontend, а также Backend часть проекта.
+В данном репозитории находится Frontend, а также Backend  проекта.
 
 # Особенности
   - Возможность подтверждения аккаунта ссылке в почте;
@@ -24,10 +24,3 @@
 ```npm start или yarn start```
 
 
-# Документация
-Пользовательскую документацию можно получить [здесь](https://github.com/xworu/regames/wiki).
-
-# Участники проекта
-  - [UX/UI-дизайнер, Frontend-разработчик](https://github.com/Lizokkkkk)
-  - [Frontend-разработчик игры "Тетрис"](https://github.com/xworu)
-  - [Frontend-разработчик игры "Змейка"](https://github.com/komsh1l)
